@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **thinking more outside of the box when it comes to coding in general**
 
-- 💬 Ask me about **my day! Psyche, I probably haven't even left from in front of this computer 🙃**
+- 💬 Ask me about **my day! Psyche, I probably haven't even left from in front of this computer today 🙃**
 
 - ⚡ Fun fact - **Coding has become my life now 😵‍💫**
 
