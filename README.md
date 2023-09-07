@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **thinking more outside of the box when it comes to coding in general**
 
-- 💬 Ask me about **my day! Psyche, I probably haven't even left from in front of this computer today 🙃**
+- 💬 Ask me about **my day! Psyche, I probably haven't even left from in front of this computer 🙃**
 
 - ⚡ Fun fact - **Coding has become my life now 😵‍💫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jovan-craft-616215285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jovan-craft-616215285/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jovancraft/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jovancraft/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
